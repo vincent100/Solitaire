@@ -5,7 +5,8 @@
  * O(2^N * R * C), N = #open spaces
  */
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 #define ll long long
 
 using namespace std;
